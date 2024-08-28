@@ -1,0 +1,15 @@
+{
+    "description": "Every castle is your domain and your rules",
+    "name": "Lord's castle #17",
+    "image": "https://raw.githubusercontent.com/client-off/client-off/main/castle/images/16.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "The haven of angels"
+        },
+        {
+            "trait_type": "castle",
+            "value": "Lord's castle"
+        }
+    ]
+}
